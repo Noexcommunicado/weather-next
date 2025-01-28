@@ -10,7 +10,7 @@ export default function Home() {
         href="/weather"
         style={{
           display: "inline-block",
-          padding: "10px 20px",
+          padding: "20px 20px",
           backgroundColor: "#4caf50",
           color: "white",
           textDecoration: "none",

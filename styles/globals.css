@@ -3,7 +3,7 @@
   --foreground: #ffffff;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: white) {
   :root {
     --background: #ffffff;
     --foreground: #000000;
@@ -49,18 +49,18 @@ body {
 }
 
 h1 {
-  color: #3c3232;
+  color: #ffffff;
 }
 
 input {
-  border: 1px solid #ae5858;
+  border: 1px solid #ffffff;
   border-radius: 5px;
   outline: none;
 }
 
 button {
   background-color: #74bc77;
-  color: rgb(218, 203, 203);
+  color: rgb(255, 255, 255);
   border: none;
   border-radius: 5px;
   transition: background-color 0.1s ease;
